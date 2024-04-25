@@ -1,5 +1,5 @@
 # License plate-detection
-# Extrsact number and letter from an image to detect licence plate detection ; course project Advanced digital image processing 
+# Extract number and letter from an image to detect licence plate detection ; course project Advanced digital image processing 
 // Main.cpp
 
 #include "Main.h"
