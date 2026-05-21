@@ -37,7 +37,8 @@ segmentation, fuzzy based algorithm , scale invariant feature transform (SIFT),
 trichromatic imaging, Least Square Method(LSM), online license plate matching
 based on weighted edit distance and color-discrete characteristics. Some authors
 focus on improving resolution of the low-resolution image by using technique called
-super resolution.
+super resolution. 
+Fig.1) Image Acquisition> Preprocessing> Segmentation> Classification (A general overview)
 
 Sometimes it becomes necessary to assess the quality of ANPR system. Throughout
 this report, number plate and license plate are used interchangeably.
